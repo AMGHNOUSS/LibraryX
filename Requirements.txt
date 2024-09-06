@@ -1,0 +1,6 @@
+
+Side of colors:
+        Primary-color: #f25f4c;
+        Secondary-color: #a7a9be;
+        Thread-color: #0f0e17;
+        Forty-color: #e9e9e9;
